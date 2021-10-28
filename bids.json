@@ -1,0 +1,124 @@
+{
+  "sales": [
+    {
+      "item": "x",
+      "reserve": 100,
+      "seller": "P",
+      "bids": [
+        {
+          "bidder": "A",
+          "bid": 110
+        },
+        {
+          "bidder": "A",
+          "bid": 130
+        },
+        {
+          "bidder": "C",
+          "bid": 125
+        },
+        {
+          "bidder": "D",
+          "bid": 105
+        },
+        {
+          "bidder": "D",
+          "bid": 115
+        },
+        {
+          "bidder": "D",
+          "bid": 90
+        },
+        {
+          "bidder": "E",
+          "bid": 132
+        },
+        {
+          "bidder": "E",
+          "bid": 135
+        },
+        {
+          "bidder": "E",
+          "bid": 140
+        }
+      ]
+    },
+    {
+      "item": "xx",
+      "reserve": 100,
+      "seller": "P",
+      "bids": [
+        {
+          "bidder": "A",
+          "bid": 110
+        },
+        {
+          "bidder": "A",
+          "bid": 130
+        },
+        {
+          "bidder": "C",
+          "bid": 125
+        },
+        {
+          "bidder": "D",
+          "bid": 105
+        },
+        {
+          "bidder": "D",
+          "bid": 115
+        },
+        {
+          "bidder": "D",
+          "bid": 90
+        },
+        {
+          "bidder": "E",
+          "bid": 132
+        },
+        {
+          "bidder": "E",
+          "bid": 135
+        },
+        {
+          "bidder": "E",
+          "bid": 140
+        },
+        {
+          "bidder": "F",
+          "bid": 136
+        }
+      ]
+    },
+    {
+      "item": "y",
+      "reserve": 150,
+      "seller": "Q",
+      "bids": [
+        {
+          "bidder": "A",
+          "bid": 160
+        },
+        {
+          "bidder": "E",
+          "bid": 140
+        }
+      ]
+    },
+    {
+      "item": "z",
+      "reserve": 250,
+      "seller": "R",
+      "bids": [
+        {
+          "bidder": "B",
+          "bid": 200
+        },
+        {
+          "bidder": "D",
+          "bid": 180
+        }
+      ]
+    }
+  ]
+}
